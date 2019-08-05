@@ -1,0 +1,10 @@
+Mongo Db Atlas:
+Email: sarbaztanha707@gmail.com
+pass: gS@E3r@xaMSKx$7
+
+username: BreakTheCage
+pass: gS@E3r@xaMSKx$7
+
+Connecting: mongodb+srv://BreakTheCage:<password>@cluster0-3lun8.mongodb.net/test?retryWrites=true&w=majority
+===============================================================
+$ npm install --save mongodb
